@@ -1,5 +1,15 @@
-### Hi there 👋
+<!--### Hi there 👋 -->
+<h1 align="center">Hi there! I'm Nikolai!</h1>
+<h3 align="center">Programmer student from Russia 🇷🇺</h3>
 
+- 🌱 I’m currently learning Go, web, ...
+- 🤔 I’m looking for help with find a course, mentor and some working practice
+- 💬 Ask me about any thing you want))
+
+<h1 align="center">Langueges and tools:</h1>
+
+<hr>
+           
 <!--
 **IDontCareMe/IDontCareMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
