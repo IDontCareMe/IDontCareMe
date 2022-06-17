@@ -1,6 +1,8 @@
 <!--### Hi there 👋 -->
 <h1 align="center">Hi there! I'm Nikolai!</h1>
 <h3 align="center">Programmer student from Russia 🇷🇺</h3>
+<img align="right" src="https://github.com/IDontCareMe/IDontCareMe/blob/main/img/Avatar.jpg" width="200" height="200" />
+
 
 - 🌱 I’m currently learning Go, web, ...
 - 🤔 I’m looking for help with find a course, mentor and some working practice
