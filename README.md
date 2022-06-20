@@ -22,6 +22,8 @@
            <img align="center" src="img/git.png" width="50" height="50" />
 </p>
 <hr>
+
+<a href="https://github-com.translate.goog/IDontCareMe/IDontCareMe?_x_tr_sl=en&_x_tr_tl=ru&_x_tr_hl=ru">RU</a>
            
 <!--
 **IDontCareMe/IDontCareMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
