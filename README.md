@@ -14,7 +14,7 @@
 - 💬 Ask me about any thing you want))
 
 <h3 align="center">My projects</h3>
-<p>-No projects yet.(( :octocat:</p>
+<p>-No projects yet.(( :octocat: :new_moon_with_face:</p>
 
 <h3 align="center">My study projects</h3>
 <p>-<a href="https://github.com/IDontCareMe/AlgorythmsCourse1">Algorithm course #1</a> - course from Computer Science Center and Stepik.org</p>
