@@ -1,6 +1,6 @@
 <p>
            <a href="https://github-com.translate.goog/IDontCareMe/IDontCareMe/blob/main/README.md?_x_tr_sl=en&_x_tr_tl=ru&_x_tr_hl=ru">
-                      <img src="https://img.shields.io/badge/Profile-Russian-blue" />
+                      <img src="https://img.shields.io/badge/Profile-Russian-blue.svg?style=social&logo=googleTranslate" />
            </a>
 </p>
 
