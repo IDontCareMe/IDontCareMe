@@ -21,7 +21,7 @@
 
 <p><h3 align="right">Connect with me:</h3></p>
 <p align="right">
-           <a href="#"><img src="img/telegram.png" width="50" height="50"/></a>
+           <a href="https://t.me/VilliamJetWings"><img src="img/telegram.png" width="50" height="50"/></a>
            <a href="https://vk.com/villiamjeroojetwings"><img src="img/vk_logo.png" width="50" height="50" alt="VK" /></a>
 </p>
 
