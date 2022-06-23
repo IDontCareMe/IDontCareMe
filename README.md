@@ -19,6 +19,8 @@
 <h3 align="center">My study projects</h3>
 <p>-<a href="https://github.com/IDontCareMe/AlgorythmsCourse1">Algorithm course #1</a> - course from Computer Science Center and Stepik.org</p>
 
+<h3 align="center"><a href="https://github.com/IDontCareMe?tab=repositories">All repositories</a></h3>
+
 <p><h3 align="right">Connect with me:</h3></p>
 <p align="right">
            <a href="https://t.me/VilliamJetWings"><img src="img/telegram.png" width="50" height="50"/></a>
