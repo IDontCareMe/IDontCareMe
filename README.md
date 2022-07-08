@@ -31,6 +31,7 @@
 <p>
            <img src="img/Go-Logo_Aqua.png" width="50" height="50" />
            <img src="img/git.png" width="50" height="50" />
+           <img src="img/Sqlite.png" width="50" height="50" />
 </p>
 <hr>
 
