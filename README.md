@@ -7,7 +7,7 @@
 <h1 align="center">Hi there! I'm Nikolai!</h1>
 <h3 align="right">Programmer student from Russia 🇷🇺</h3>
 <hr>
-<img align="right" src="https://github.com/IDontCareMe/IDontCareMe/blob/main/img/Avatar.jpg" width="200" height="200" />
+<img align="right" src="https://github.com/IDontCareMe/IDontCareMe/blob/main/img/ph.png" width="400" height="400" />
 
 - 🌱 I’m currently learning Go, web, ...
 - 🤔 I’m looking for help with find a course, mentor and some working practice
@@ -21,16 +21,21 @@
 <p>-<a href="https://github.com/IDontCareMe/AlgorythmsCourse1">Algorithm course #1</a> - course from Computer Science Center and Stepik.org</p>
 
 <h3 align="center"><a href="https://github.com/IDontCareMe?tab=repositories">All repositories</a></h3>
+<p>*</p>
 
+<hr>
 <p><h3 align="right">Connect with me:</h3></p>
 <p align="right">
            <a href="https://t.me/VilliamJetWings"><img src="img/telegram.png" width="50" height="50"/></a>
            <a href="https://vk.com/villiamjeroojetwings"><img src="img/vk_logo.png" width="50" height="50" alt="VK" /></a>
 </p>
 
-<h1 align="center">Langueges and tools:</h1>
+<h1 align="left">Languages:</h1>
 <p>
            <img src="img/Go-Logo_Aqua.png" width="50" height="50" />
+</p>
+<h1 align="left">Tools:</h1>
+<p>
            <img src="img/git.png" width="50" height="50" />
            <img src="img/Sqlite.png" width="50" height="50" />
 </p>
