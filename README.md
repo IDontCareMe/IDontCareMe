@@ -33,6 +33,7 @@
 <h1 align="left">Languages:</h1>
 <p>
            <img src="img/Go-Logo_Aqua.png" width="50" height="50" />
+           <img src="img/python_logo.png" width="50" height="50" />
 </p>
 <h1 align="left">Tools:</h1>
 <p>
