@@ -9,7 +9,7 @@
 <hr>
 <img align="right" src="https://github.com/IDontCareMe/IDontCareMe/blob/main/img/ph.png" width="400" height="400" />
 
-- 🌱 I’m currently learning Go, web, ...
+- 🌱 I’m currently learning Python, Go, web, ...
 - 🤔 I’m looking for help with find a course, mentor and some working practice
 - 💬 Ask me about any thing you want))
 
